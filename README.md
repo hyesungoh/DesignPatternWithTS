@@ -6,3 +6,4 @@
 -   [Strategy Pattern](https://github.com/hyesungoh/DesignPatternWithTS/tree/master/Strategy)
 -   [Visitor Pattern](https://github.com/hyesungoh/DesignPatternWithTS/tree/master/Visitor)
 -   [Mediator Pattern](https://github.com/hyesungoh/DesignPatternWithTS/tree/master/Mediator)
+-   [State Pattern](https://github.com/hyesungoh/DesignPatternWithTS/tree/master/State)

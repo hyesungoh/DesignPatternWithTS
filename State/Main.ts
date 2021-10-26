@@ -8,7 +8,7 @@ class Main {
         setInterval(() => {
             hour = hour === 23 ? 0 : hour + 1;
             frame.setClock(hour);
-        }, 2000);
+        }, 1000);
     }
 }
 
